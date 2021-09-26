@@ -5,15 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](thisarahetz:thisarayashodagcc@gmaiol.com)
 [![Outlook](https://img.shields.io/twitter/url?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ThisaraY)
 
-<script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/nobciafz.json"
-    trigger="loop"
-    colors="primary:#121331,secondary:#08a88a"
-    style="width:500px;height:500px">
-</lord-icon>
-	
+<img width="55%" align="center" alt="Github" src="https://user-images.githubusercontent.com/43540833/134821537-02402429-3530-4a9b-b485-124ec7fb1e9a.gif"/>
+
 - 🌱 I’m currently learning SLIIT
 - 📫 How to contact me: Thisarayashodagcc@gmail.com
 - ⚡ Fun fact: My life is paused on Sunday night.
+
+<img width="55%" align="right" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical" />
 
