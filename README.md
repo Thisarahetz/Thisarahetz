@@ -32,6 +32,7 @@
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisarahetz&layout=compact)](https://github.com/Thisarahetz)
+<a href="https://github.com/Thisarahetz/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thisarahetz
+&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
