@@ -6,7 +6,8 @@
 [![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FThisaraY)
 
 <img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823762-91291ff3-c093-434c-9841-f136d5151732.gif"/>
-<img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
+<br>
+<img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
 
 - 🌱 I’m currently learning SLIIT
 - 📫 How to contact me: Thisarayashodagcc@gmail.com
