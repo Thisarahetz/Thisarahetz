@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning SLIIT
 - 📫 How to contact me: Thisarayashodagcc@gmail.com
 - ⚡ Fun fact: My life is paused on Sunday night.
--
+
+
   <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
 
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
