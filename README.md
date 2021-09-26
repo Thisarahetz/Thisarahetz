@@ -7,6 +7,7 @@
 
 <img width="20%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134821764-f4cb1d62-d7fb-40d6-b6df-6fc96768d1c2.gif"/>
 <img width="55%" align="right" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical" />
+<br/>
 - 🌱 I’m currently learning SLIIT
 - 📫 How to contact me: Thisarayashodagcc@gmail.com
 - ⚡ Fun fact: My life is paused on Sunday night.
@@ -29,6 +30,6 @@
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisarahetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisarahetz&layout=compact)](https://github.com/Thisarahetz/github-readme-stats)
 
 
