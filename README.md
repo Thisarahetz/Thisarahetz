@@ -6,13 +6,14 @@
 [![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FThisaraY)
 
 <img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134821764-f4cb1d62-d7fb-40d6-b6df-6fc96768d1c2.gif"/>
-<img width="55%" align="right" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
+
 <br/>
 <code>
 - 🌱 I’m currently learning SLIIT
 - 📫 How to contact me: Thisarayashodagcc@gmail.com
 - ⚡ Fun fact: My life is paused on Sunday night.
   </code>
+  <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
 
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
