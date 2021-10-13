@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Thisara, a developer 🚩
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Thisarahetz)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thisara-hettikankanama-2095221a1)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thisara_hetz/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](thisarahetz:thisarayashodagcc@gmail.com)
-[twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FThisaraY)
+
+<a href="https://www.linkedin.com/in/thisara-hettikankanama-2095221a1"><img alt="Linkedin" title="Thisara Yashoda" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/thisara.hettikankanama"><img alt="Facebook" title="thisara FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="(https://www.instagram.com/thisara_hetz"><img alt="Instagram" title="Thisara" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="thisara:thisarayashodagcc@gmail.com"><img alt="Gmail" title="thisara" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/thisarahetz"><img alt="Telegram" title="thisara Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://twitter.com/ThisaraY"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823762-91291ff3-c093-434c-9841-f136d5151732.gif"/>
 <br>
