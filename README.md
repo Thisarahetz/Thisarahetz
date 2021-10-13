@@ -13,11 +13,11 @@
 
 ```java
       public class Thisara{
-      String name = "Thisara Hettikankanama"
-      current_edu = "SLIIT"
-      currently_learning = "typescript with react"
-      fun_fact = "My life is paused on Sunday night"
-      String[] hobbies = { 
+        String name = "Thisara Hettikankanama"
+        current_edu = "SLIIT"
+        currently_learning = "typescript with react"
+        fun_fact = "My life is paused on Sunday night"
+        String[] hobbies = { 
                 "Coding"
                 "Music",
                 "Chiling",
