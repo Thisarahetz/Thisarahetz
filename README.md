@@ -12,17 +12,16 @@
 <img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
 
 ```java
-      private class Thisara{
-      
+      public class Thisara{
       String name = "Thisara Hettikankanama"
       current_edu = "SLIIT"
       currently_learning = "typescript with react"
-      fun_fact = "I hate Chillies"
+      fun_fact = "My life is paused on Sunday night"
       String[] hobbies = { 
                 "Coding"
                 "Music",
                 "Chiling",
-                "Gaming"
+                "Gaming",
                 "Action & Adventure Movies"
       }
 
