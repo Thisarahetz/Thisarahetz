@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/thisara-hettikankanama-2095221a1"><img alt="Linkedin" title="Thisara Yashoda" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/thisara.hettikankanama"><img alt="Facebook" title="thisara FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="(https://www.instagram.com/thisara_hetz"><img alt="Instagram" title="Thisara" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/thisara_hetz"><img alt="Instagram" title="Thisara" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="thisara:thisarayashodagcc@gmail.com"><img alt="Gmail" title="thisara" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/thisarahetz"><img alt="Telegram" title="thisara Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href="https://twitter.com/ThisaraY"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
