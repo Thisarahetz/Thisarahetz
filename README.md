@@ -11,9 +11,22 @@
 <br>
 <img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
 
-- 🌱 I’m currently learning SLIIT
-- 📫 How to contact me: Thisarayashodagcc@gmail.com
-- ⚡ Fun fact: My life is paused on Sunday night.
+```java
+      private class Thisara{
+      
+      String name = "Thisara Hettikankanama"
+      current_edu = "SLIIT"
+      currently_learning = "typescript with react"
+      fun_fact = "I hate Chillies"
+      String[] hobbies = { 
+                "Coding"
+                "Music",
+                "Chiling",
+                "Gaming"
+                "Action & Adventure Movies"
+      }
+
+  ```
 
 
   <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
