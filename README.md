@@ -10,19 +10,18 @@
 <img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823762-91291ff3-c093-434c-9841-f136d5151732.gif"/>
 <br>
 <img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
-
 ```java
       public class Thisara{
-        String name = "Thisara Hettikankanama"
-        current_edu = "SLIIT"
+        String name = "Thisara Hettikankanama👤"
+        current_edu = "SLIIT🎓"
         currently_learning = "typescript with react"
-        fun_fact = "My life is paused on Sunday night"
+        fun_fact = "My life is paused on Sunday night🍻"
         String[] hobbies = { 
-                "Coding"
-                "Music",
-                "Chiling",
-                "Gaming",
-                "Action & Adventure Movies"
+                "Coding🖥"
+                "Music🎧",
+                "Chiling🕺",
+                "Gaming🎮",
+                "Action & Adventure Movies🎥"
                 }
       }
 
