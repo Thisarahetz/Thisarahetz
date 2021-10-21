@@ -29,7 +29,7 @@
   ```
 
 
-  <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
+ <!-- <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
 
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -58,3 +58,4 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+-->
