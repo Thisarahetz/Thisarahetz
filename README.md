@@ -27,7 +27,7 @@
       }
 
   ```
-https://raw.githubusercontent.com/Thisarahetz/Thisarahetz/output/github-contribution-grid-snake.svg
+![thisara snake gif](https://raw.githubusercontent.com/Thisarahetz/Thisarahetz/output/github-contribution-grid-snake.svg)
 
  <!-- <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=Thisarahetz&show_icons=true&hide_border=true&theme=radical"/>
 
