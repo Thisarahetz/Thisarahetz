@@ -15,7 +15,7 @@
       public class Thisara{
         String name = "Thisara Hettikankanama👤"
         current_edu = "SLIIT🎓"
-        currently_learning = "solidity"
+        currently_learning = "Machine learning"
         fun_fact = "My life is paused on Sunday night🍻"
         String[] hobbies = { 
                 "Coding🖥"
