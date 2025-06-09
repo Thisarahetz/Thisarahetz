@@ -12,19 +12,21 @@
 <img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
 
 ```java
-      public class Thisara{
-        String name = "Thisara Hettikankanama👤"
-        current_edu = "SLIIT🎓"
-        currently_learning = "Machine learning"
-        fun_fact = "My life is paused on Sunday night🍻"
-        String[] hobbies = { 
-                "Coding🖥"
-                "Music🎧",
-                "Chiling🕺",
-                "Gaming🎮",
-                "Action & Adventure Movies🎥"
-                }
-      }
+      public class Thisara {
+    String name = "Thisara Hettikankanama👤";
+    String current_edu = "Graduated from SLIIT🎓";
+    String fun_fact = "My life is paused on Sunday night🍻";
+    String[] hobbies = { 
+        "Coding🖥",
+        "Music🎧",
+        "Chilling🕺",
+        "Gaming🎮",
+        "Game Development🎮👾",
+        "Full Stack Development💻🌐",
+        "Action & Adventure Movies🎥"
+    };
+}
+
 
   ```
 ![thisara snake gif](https://raw.githubusercontent.com/Thisarahetz/Thisarahetz/output/github-contribution-grid-snake.svg)
